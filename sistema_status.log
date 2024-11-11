@@ -1,0 +1,51 @@
+==============================
+Relatório do sistema em seg 11 nov 2024 02:38:25 -03
+==============================
+Uso de Memória:
+
+Espaço em Disco:
+Sist. Arq.      Tam. Usado Disp. Uso% Montado em
+tmpfs           784M  1,9M  782M   1% /run
+/dev/sda6       148G   42G  100G  30% /
+tmpfs           3,9G   18M  3,9G   1% /dev/shm
+tmpfs           5,0M     0  5,0M   0% /run/lock
+efivarfs         88K   52K   32K  63% /sys/firmware/efi/efivars
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           784M  132K  784M   1% /run/user/1000
+
+Processos Ativos:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+philipe     4312 18.9  9.1 3627684 735980 ?      Sl   02:19   3:29 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7aeb4e09-3495-4a67-8f0c-8c030f9278df} 3720 true 14 tab
+philipe     3720 11.8  5.8 12047952 467276 ?     Sl   02:17   2:29 firefox
+mysql        940  1.0  4.9 2308140 394360 ?      Ssl  02:16   0:14 /usr/sbin/mysqld
+philipe     3935  2.6  4.6 2807288 372012 ?      Sl   02:17   0:32 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e1e0a065-ade3-4492-89f6-ad3833441d47} 3720 true 7 tab
+
+===============================
+
+==============================
+Relatório do sistema em seg 11 nov 2024 02:39:35 -03
+==============================
+Uso de Memória:
+               total       usada       livre    compart.  buff/cache  disponível
+Mem.:          7,7Gi       3,2Gi       1,3Gi       422Mi       3,1Gi       3,8Gi
+Swap:          2,0Gi          0B       2,0Gi
+
+Espaço em Disco:
+Sist. Arq.      Tam. Usado Disp. Uso% Montado em
+tmpfs           784M  1,9M  782M   1% /run
+/dev/sda6       148G   42G  100G  30% /
+tmpfs           3,9G   18M  3,9G   1% /dev/shm
+tmpfs           5,0M     0  5,0M   0% /run/lock
+efivarfs         88K   52K   32K  63% /sys/firmware/efi/efivars
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           784M  132K  784M   1% /run/user/1000
+
+Processos Ativos:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+philipe     4312 18.0  9.1 3627668 733132 ?      Sl   02:19   3:32 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7aeb4e09-3495-4a67-8f0c-8c030f9278df} 3720 true 14 tab
+philipe     3720 11.3  5.8 12046524 470160 ?     Sl   02:17   2:31 firefox
+mysql        940  1.0  4.9 2308140 394360 ?      Ssl  02:16   0:15 /usr/sbin/mysqld
+philipe     3935  2.4  4.6 2807288 372076 ?      Sl   02:17   0:33 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e1e0a065-ade3-4492-89f6-ad3833441d47} 3720 true 7 tab
+
+===============================
+
