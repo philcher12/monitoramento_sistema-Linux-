@@ -15,10 +15,10 @@ tmpfs           784M  132K  784M   1% /run/user/1000
 
 Processos Ativos:
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-philipe     4312 18.9  9.1 3627684 735980 ?      Sl   02:19   3:29 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7aeb4e09-3495-4a67-8f0c-8c030f9278df} 3720 true 14 tab
-philipe     3720 11.8  5.8 12047952 467276 ?     Sl   02:17   2:29 firefox
+userx     4312 18.9  9.1 3627684 735980 ?      Sl   02:19   3:29 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7aeb4e09-3495-4a67-8f0c-8c030f9278df} 3720 true 14 tab
+userx     3720 11.8  5.8 12047952 467276 ?     Sl   02:17   2:29 firefox
 mysql        940  1.0  4.9 2308140 394360 ?      Ssl  02:16   0:14 /usr/sbin/mysqld
-philipe     3935  2.6  4.6 2807288 372012 ?      Sl   02:17   0:32 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e1e0a065-ade3-4492-89f6-ad3833441d47} 3720 true 7 tab
+userx     3935  2.6  4.6 2807288 372012 ?      Sl   02:17   0:32 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e1e0a065-ade3-4492-89f6-ad3833441d47} 3720 true 7 tab
 
 ===============================
 
@@ -42,10 +42,10 @@ tmpfs           784M  132K  784M   1% /run/user/1000
 
 Processos Ativos:
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-philipe     4312 18.0  9.1 3627668 733132 ?      Sl   02:19   3:32 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7aeb4e09-3495-4a67-8f0c-8c030f9278df} 3720 true 14 tab
-philipe     3720 11.3  5.8 12046524 470160 ?     Sl   02:17   2:31 firefox
+userx     4312 18.0  9.1 3627668 733132 ?      Sl   02:19   3:32 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7aeb4e09-3495-4a67-8f0c-8c030f9278df} 3720 true 14 tab
+userx     3720 11.3  5.8 12046524 470160 ?     Sl   02:17   2:31 firefox
 mysql        940  1.0  4.9 2308140 394360 ?      Ssl  02:16   0:15 /usr/sbin/mysqld
-philipe     3935  2.4  4.6 2807288 372076 ?      Sl   02:17   0:33 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e1e0a065-ade3-4492-89f6-ad3833441d47} 3720 true 7 tab
+userx     3935  2.4  4.6 2807288 372076 ?      Sl   02:17   0:33 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsLen 39243 -prefMapSize 257722 -jsInitLen 234660 -parentBuildID 20241103194048 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {e1e0a065-ade3-4492-89f6-ad3833441d47} 3720 true 7 tab
 
 ===============================
 
